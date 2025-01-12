@@ -25,3 +25,4 @@ Then go to the file and run the python file.
 Then you will have a gui.py file.
 Or if you have trouble while executing directly run the .EXE FILE from the directory dist.
 gui.EXE
+@YeswanthSoma All Copyrights Reserved
