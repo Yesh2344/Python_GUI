@@ -14,6 +14,34 @@ Clone the repository using Git:
 bash
 
 Verify
+## Installation
+
+Follow these steps to install and run the application:
+
+1. Clone the repository using Git:
+    ```bash
+    git clone https://github.com/Yesh2344/Python_GUI.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd Python_GUI
+    ```
+
+3. Open the `gui.py` file in your preferred code editor.
+
+4. Run the Python script:
+    ```bash
+    python gui.py
+    ```
+
+   If you prefer, you can also run the `.EXE` file directly from the `dist` directory:
+    ```bash
+    dist/gui.EXE
+    ```
+
+If you encounter issues while running the script directly, try using the `.EXE` file instead.
+
 
 Open In Editor
 Edit
